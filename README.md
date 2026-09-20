@@ -1,4 +1,4 @@
-# Simple Auth System
+# Easy Auth System
 
 A simple and secure user authentication system built with a modern tech stack: FastAPI, React, and MySQL. This project provides a solid foundation for applications requiring user registration, login, and email verification.
 
@@ -17,8 +17,8 @@ A simple and secure user authentication system built with a modern tech stack: F
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/quoituparle/easy-authenticate.git
+    cd easy-authenticate
     ```
 
 2.  **Backend Setup:**
